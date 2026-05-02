@@ -1,4 +1,4 @@
-# Atakan Akgul
+# Atakan Akgül
 
 Computer Engineering student focused on building a strong foundation in software development and computer science.
 
