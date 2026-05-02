@@ -1,16 +1,22 @@
-## Hi there 👋
+# Atakan Akgul
 
-<!--
-**atakan-akgul/atakan-akgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on building a strong foundation in software development and computer science.
 
-Here are some ideas to get you started:
+## About
+I am working on improving my problem solving skills and understanding of core concepts by writing code regularly and building small projects. I aim to write clear, maintainable and efficient solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in backend development and system design.
+
+## Focus
+- Strengthening fundamental concepts  
+- Practicing data structures and algorithms  
+- Developing consistent coding habits  
+- Actively maintaining a data structures practice repository  
+
+## Goals
+- Become a reliable software developer  
+- Contribute to real-world projects  
+- Continuously improve through learning and practice  
+
+## Contact
+LinkedIn: www.linkedin.com/in/atakan-akgul/
